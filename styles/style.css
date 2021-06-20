@@ -1,0 +1,15 @@
+#number-pad{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 80px;
+}
+
+#key-pad{
+    display: flex;
+}
+
+#operator-pad{
+    display: flex;
+    flex-direction: column;
+}
